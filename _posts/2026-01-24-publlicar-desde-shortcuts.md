@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Publlicar desde Shortcuts"
+title: "Publicar desde Shortcuts"
 date: 2026-01-24 22:57:42 +0100
 ---
 
