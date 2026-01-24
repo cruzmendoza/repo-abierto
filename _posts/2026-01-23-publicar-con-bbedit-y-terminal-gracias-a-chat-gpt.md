@@ -1,6 +1,6 @@
 ---
 title: "Publicar un blog en GitHub Pages desde la terminal (sin saber casi nada)"
-date: 2026-01-23
+date: 2026-01-23 18:11:27 +01:00
 author: Cruz Mendoza
 tags:
   - aprendizaje

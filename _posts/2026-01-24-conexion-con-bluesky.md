@@ -1,7 +1,7 @@
 ---
 title: "Prueba para comprobar la conexión con Bluesky"
 author: Cruz Mendoza
-date: 2026-01-24
+date: 2026-01-24 23:00:00 +01:00
 tags:
   - blogging
 ---

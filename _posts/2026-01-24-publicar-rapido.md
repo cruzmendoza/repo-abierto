@@ -1,7 +1,7 @@
 ---
 title: "Prueba rápida de publicación"
 author: Cruz Mendoza
-date: 2026-01-24
+date: 2026-01-24 19:00:00 +01:00
 tags:
   - blogging
 ---

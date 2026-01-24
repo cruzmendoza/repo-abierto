@@ -1,7 +1,7 @@
 ---
 title: "Aprendiendo a publicar con la Terminal"
 author: Cruz Mendoza
-date: 2026-01-24
+date: 2026-01-24 18:00:00 +01:00
 tags:
   - blogging
   - frikismos
