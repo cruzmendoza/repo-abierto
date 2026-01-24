@@ -1,0 +1,6 @@
+title: "Repo Abierto"
+description: "El blog de Cruz Mendoza"
+theme: minima
+
+plugins:
+  - jekyll-feed
