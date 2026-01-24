@@ -1,14 +1,9 @@
 ---
-title: "Borrador-01"
+title: "Prueba rápida de publicación"
 author: Cruz Mendoza
 date: 
 tags:
-  - productividad
-  - ia
-  - frikismos
-  - opinion
-  - viajes
-  - recetas
+  - blogging
 ---
 
-Texto en elaboración.
+Esto es solo una prueba rápida para editar el borrador, moverlo a `_posts` y publicarlo rápido, antes de salir corriendo a pasear a la perrita que ya está esperando.
