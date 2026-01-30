@@ -1,7 +1,9 @@
 title: "Repo Abierto"
+tagline: "Cruz Mendoza"
 description: "El blog de Cruz Mendoza"
 remote_theme: pages-themes/midnight@v0.2.0
 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
