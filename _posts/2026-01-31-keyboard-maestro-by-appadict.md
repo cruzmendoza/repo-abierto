@@ -1,8 +1,8 @@
 ---
-title: "Borrador-01"
+title: "Keyboard Maestro via AppAdict"
 author: Cruz Mendoza
 lang: en
-date:
+date: 2026-01-31 23:10:14 +01:00
 tags:
   - productividad
   - frikismos
