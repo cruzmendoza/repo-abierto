@@ -9,7 +9,7 @@ tags:
   - software
 ---
 
-[Keyboard Maestro, The App That Makes Everything Better - Tips for the Automation Curious | AppAddict](https://appaddict.app/post/keyboard-maestro-the-app-that-makes-everything-better-tips-for-the-for-the-automation-curious)
+[Keyboard Maestro, The App That Makes Everything Better - Tips for the Automation Curious - AppAddict](https://appaddict.app/post/keyboard-maestro-the-app-that-makes-everything-better-tips-for-the-for-the-automation-curious)
 
 > Macros
 > 
