@@ -1,0 +1,31 @@
+---
+layout: null
+permalink: /rss.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <description>{{ site.description | default: site.title | xml_escape }}</description>
+    <language>{{ site.lang | default: "es" }}</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <atom:link href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" rel="self" type="application/rss+xml" />
+
+    {% assign posts = site.posts | where_exp:"p","p.draft != true" %}
+    {% for post in posts limit:20 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      {% if post.excerpt %}
+      <description><![CDATA[{{ post.excerpt | strip_html | strip_newlines | truncate: 400 }}]]></description>
+      {% else %}
+      <description><![CDATA[]]></description>
+      {% endif %}
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
